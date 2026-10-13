@@ -1,6 +1,6 @@
 # Lab 6 — Category-Partition ба PICT
 
-**Оюутны нэр:** Iderbat Batsaikhan  
+**Оюутны нэр:** Б.Идэрбат  
 **Оюутны код:** B242270075  
 **Хичээл:** F.CSA313 — Программ хангамжийн чанарын баталгаа ба тест  
 **Орчин:** Debian Linux, Microsoft PICT 3.7.4
